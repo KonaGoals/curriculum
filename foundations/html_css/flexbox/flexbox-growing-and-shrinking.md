@@ -73,6 +73,7 @@ This section contains questions for you to check your understanding of this less
 - <a class="knowledge-check-link" href="#the-flex-shorthand">What are the 3 values defined in the shorthand `flex` property (e.g. `flex: 1 1 auto`)?</a>
 
 ### Additional Resources
+<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Here is a complete guide to flexbox</a>
 
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
 
